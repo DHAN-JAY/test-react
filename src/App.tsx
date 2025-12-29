@@ -1,6 +1,5 @@
 import React from "react";
 import Scene from "./Scene";
-import SortingVisualizer from "./SortingVisulizer";
 
 export default function App() {
   return (
